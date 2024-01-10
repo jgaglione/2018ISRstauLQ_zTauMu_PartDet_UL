@@ -88,7 +88,7 @@ Tau1SeedTrackPt        2000   0.    5000.
 Tau1Charge               10  -5.       5.
 Tau1MetMt		 200  0.       1000.
 
-FillTau2 1
+FillTau2 0
 
 NTau2                    20   0.      20.
 Tau2Energy             2000   0.    5000.
@@ -185,7 +185,7 @@ CentralJetPt    200   0.   500.
 CentralJetEta   100  -5.0   +5.0
 
 
-FillWJet 1
+FillWJet 0
 
 NWJet      20   0.    20.
 WJetPt    200   0.   500.
